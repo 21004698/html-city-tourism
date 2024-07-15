@@ -575,7 +575,11 @@ footer {
 }
 ````
 Output:
+![html 1](https://github.com/user-attachments/assets/3bcd88c6-a80f-4b60-b791-6502a369a018)
+![html 2](https://github.com/user-attachments/assets/8c9b8091-3437-41b1-a183-51813249d8f1)
+![html 3](https://github.com/user-attachments/assets/731fc6bc-3aa3-419d-a732-d2cdff727667)
+![html 4](https://github.com/user-attachments/assets/58f56bce-50c2-4c9c-8f0e-09ed20dc85ad)
 
-Screenshot 2024-07-02 133856 Screenshot 2024-07-02 133916 Screenshot 2024-07-02 133925 Screenshot 2024-07-02 133933 Screenshot 2024-07-02 134014 Screenshot 2024-07-02 134024 Screenshot 2024-07-02 134037 Screenshot 2024-07-02 134047 Screenshot 2024-07-02 134103 Screenshot 2024-07-02 134122
+
 Result:
 Thus,Creating a website for college was executed successfully.
